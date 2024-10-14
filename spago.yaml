@@ -39,7 +39,4 @@ package:
       - exceptions
       - record
       - transformers
-workspace:
-  extraPackages: {}
-  packageSet:
-    registry: 60.5.0
+workspace: {}
